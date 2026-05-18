@@ -6,7 +6,7 @@ The **Define** phase serves as the strategic bedrock for the retail performance 
 ---
 
 ## 📂 Phase Deliverables & Structure
-Based on the project repository structure (image_68cdd8.png), this phase is organized into the following modules:
+This phase is organized into the following modules:
 
 ### **01. Project Charter**
 Defines the mission, scope, and high-level goals. It establishes the business case for improving conversion rates and sets the initial timeline for the DMAIC cycle.
@@ -17,7 +17,7 @@ Provides a high-level visualization of the current customer journey, identifying
 ### **03. Voice of the Customer (VOC) & CTQ**
 Captures qualitative feedback and translates it into measurable **Critical to Quality (CTQ)** metrics:
 *   **Target Conversion Rate:** $\geq 35\%$.
-*   **Target Wait Time:** $\leq 3$ minutes (addressing the current 8-minute bottleneck).
+*   **Target Wait Time:** $\leq 3$ minutes (addressing the current ~9.62-minute checkout process (with 3.54 min pre-service wait)).
 
 ### **04. Stakeholder Analysis**
 A comprehensive mapping of 6 key stakeholder groups (Sales, Management, Inventory, Finance, Customers, and Vendors):
@@ -32,4 +32,4 @@ Formal archives of critical project correspondence aimed at closing information 
 ---
 
 ## 📈 Strategic Rationale
-This phase ensures that our subsequent **Analyze** phase is built on a foundation of "True Needs" rather than assumptions. By identifying that the **8-minute checkout average** is a significant pain point, we have already prioritized technical and operational bottlenecks for investigation.
+This phase ensures that our subsequent **Analyze** phase is built on a foundation of "True Needs" rather than assumptions. By identifying that the **9.62-minute checkout average** is a significant pain point, we have already prioritized technical and operational bottlenecks for investigation.

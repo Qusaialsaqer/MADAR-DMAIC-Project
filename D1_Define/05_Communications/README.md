@@ -4,7 +4,7 @@ To move from the **Define** phase to a high-precision **Analyze** phase, we iden
 
 ### **1. Operational & Customer Friction Data**
 *   **Focus:** Inventory, Transaction Value, and Queue Bottlenecks.
-*   **Key Discovery:** The current **8-minute checkout average** was identified as a primary suspect for cart abandonment.
+*   **Key Discovery:** The current **9.62-minute checkout average** was identified as a primary suspect for cart abandonment.
 *   **Objective:** To determine if low conversion is driven by **Technical/Operational friction** (long lines, out-of-stocks) rather than just staff performance.
 
 ### **2. Human Capital & Training Maturity**
